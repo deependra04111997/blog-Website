@@ -5,7 +5,7 @@
         
         "Blog_name":"Python Coders",
         "Blog_title":"Start learnig today",
-        "local_uri":"mysql://root:admin123@localhost/pythoncoders",
+        "local_uri":"mysql://",
         "img_file":"assets/img/home-bg.jpg",
         "user":"admin@pythoncoders.com",
         "upload_location": "D:\\PYTHON MODULES\\FLASK\\startbootstrap-clean-blog-gh-pages\\static\\assets\\img",
